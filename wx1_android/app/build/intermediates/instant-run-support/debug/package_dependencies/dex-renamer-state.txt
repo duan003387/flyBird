@@ -1,0 +1,4 @@
+#Tue Jan 15 17:49:25 CST 2019
+base.0=C\:\\Users\\duan\\Desktop\\wx1_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\egretNativeAndroid_0cee4a1f13ddb084afa697a24f1ab288394d70f7
+renamed.0=classes.dex
+file.0=C\:\\Users\\duan\\Desktop\\wx1_android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\egretNativeAndroid_0cee4a1f13ddb084afa697a24f1ab288394d70f7\\classes.dex

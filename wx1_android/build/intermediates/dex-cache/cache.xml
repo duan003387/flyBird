@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\duan\.android\build-cache\974d5f99aaa20e1b1b4be585a0537adafe34d21e\output\jars\libs\egretNativeAndroid.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="deff0daf73ce613e4c0a6bcde05c4aff62cc2112">
+        <dex dex="C:\Users\duan\Desktop\wx1_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\egretNativeAndroid_0cee4a1f13ddb084afa697a24f1ab288394d70f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\duan\Desktop\wx1_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6094a23ff707fa6e75d7c4fc938755e96ede8f4">
+        <dex dex="C:\Users\duan\Desktop\wx1_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_590ef7a0e79636244a294c32cefbcb161ef10f74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\duan\Desktop\wx1_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="C:\Users\duan\Desktop\wx1_android\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_40e564a4bdc775b3066e9cb2413a1b702274c299\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\duan\.android\build-cache\974d5f99aaa20e1b1b4be585a0537adafe34d21e\output\jars\libs\egretNativeAndroid.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="deff0daf73ce613e4c0a6bcde05c4aff62cc2112">
+        <dex dex="C:\Users\duan\Desktop\wx1_android\app\build\intermediates\pre-dexed\debug\egretNativeAndroid_0cee4a1f13ddb084afa697a24f1ab288394d70f7.jar" />
+    </item>
+
+</items>
